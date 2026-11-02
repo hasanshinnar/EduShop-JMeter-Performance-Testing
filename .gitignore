@@ -1,0 +1,9 @@
+# Ignore JMeter log files and HTML execution reports
+*.log
+*.jtl
+reports/*
+!reports/.gitkeep
+
+# Ignore OS metadata
+.DS_Store
+Thumbs.db

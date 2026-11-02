@@ -1,5 +1,5 @@
 firstname,lastname,email,category,sort_option,search_term,address,payment_method
-Ahmed,Abu rob,AhmedAbuRob25@example.com,Electronics,price_asc,Wireless Mouse,123 Main St - Amman,CreditCard
+Ahmed,Abu rob,Ahmed_AbuRob@example.com,Electronics,price_asc,Wireless Mouse,123 Main St - Amman,CreditCard
 Ali,Elrasi,AliElrasi@example.com,Books,newest,Python Programming,456 University Ave - Irbid,PayPal
 Mahmoud,Bakheet,MahmoudBakheet@example.com,Clothing,name_asc,T-Shirt,788 King Abdullah St - Zarqa,CreditCard
 Yara,Zubidi,YaraZubidi@example.com,Home,price_desc,Coffee Maker,12 5th Circle - Amman,PayPal
